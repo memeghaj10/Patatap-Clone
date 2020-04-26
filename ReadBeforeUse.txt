@@ -1,0 +1,7 @@
+1. Update the PaperJS version of the project.
+
+2. Fix the CORS errors.
+
+3. Change the "urls" to "src" while using the new version of HowlerJS.
+
+4. Use new version of HowlerJS.
