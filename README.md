@@ -10,3 +10,8 @@ Following changes are to be made when used in the latest-browser version or for 
 3. Change the "urls" to "src" while using the new version of HowlerJS.
 
 4. Use new version of HowlerJS.
+
+
+#The Original Patatap Website
+
+https://patatap.com/
