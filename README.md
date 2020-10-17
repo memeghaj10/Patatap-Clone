@@ -32,7 +32,7 @@ For Windows :-
  > Ensure that you have a the latest version of python installed, `python3.x`. 
  > You can first run the terminal, and then give the command `python -m http.server`.
  >  After this open [this](http://localhost:8000/) link in your browser.
- > Then click the `patatapclone.html` file and the app will run.
+ > Then click the `index.html` file and the app will run.
 
 
  - The `urls` syntax has been updated to `src` after using the new version of Howler JS.
