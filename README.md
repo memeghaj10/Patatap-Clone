@@ -9,7 +9,7 @@ This is a simple clone of the popular front-end website name <a href="https://pa
 - Then you can randomly as per your choice press alphabetic     keys from 'a' to 'z', and enjoy the sounds and animation.
 
 
-**I have used the following libraries of JavScript** :-
+**I have used the following libraries of JavaScript** :-
 
     1. Howler JS :  For sound-effects and play/pause functionalities.
 
