@@ -2,6 +2,9 @@
 
 This is a simple clone of the popular front-end website name <a href="https://patatap.com/">"PataTap"</a>.
 
+This clone-project can be viewed/enjoyed on this link :-
+    https://memeghaj10.github.io/Patatap-Clone/
+
 **How To Use?** :-
 
 - After cloning the repo, you can run it in terminal as HTTP Server, to avoid CORS Error.
